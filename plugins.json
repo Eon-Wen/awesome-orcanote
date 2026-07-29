@@ -774,5 +774,24 @@
         "category": "效率工具"
       }
     }
+  },
+  {
+    "author": "zlflly",
+    "id": "paper-annotations",
+    "name": "Paper Annotations",
+    "description": "Create color-coded, page-linked text and area annotations from Orca Note PDF highlights.",
+    "category": "Productivity",
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 19.5A2.5 2.5 0 0 1 6.5 17H20\"/><path d=\"M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2Z\"/><path d=\"m9 12 5.5-5.5 3 3L12 15H9v-3Z\"/><circle cx=\"8\" cy=\"7\" r=\"1.2\" fill=\"#f2c94c\" stroke=\"none\"/></svg>",
+    "version": "1.0.0",
+    "updated": "2026-07-29T12:40:49Z",
+    "home": "https://github.com/zlflly/orca-plugin-paper-annotations",
+    "zip": "https://github.com/zlflly/orca-plugin-paper-annotations/releases/download/v1.0.0/paper-annotations-v1.0.0.zip",
+    "translations": {
+      "zh": {
+        "name": "论文批注",
+        "description": "从虎鲸笔记的 PDF 高亮即时创建带颜色、页码回链和区域截图的读书批注。",
+        "category": "效率工具"
+      }
+    }
   }
 ]
