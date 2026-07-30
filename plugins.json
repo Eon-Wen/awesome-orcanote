@@ -407,6 +407,7 @@
     "updated": "2026-07-24T13:05:00Z",
     "home": "https://github.com/sethyuan/orca-plugin-focus-mode",
     "zip": "https://github.com/sethyuan/orca-plugin-focus-mode/releases/download/v0.1.1/focus-mode-v0.1.1.zip",
+    "donate": "https://github.com/sethyuan/orca-plugin-focus-mode/raw/refs/heads/main/donate.avif",
     "translations": {
       "zh": {
         "name": "专注模式",
