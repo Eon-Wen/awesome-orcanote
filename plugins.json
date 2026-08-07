@@ -929,5 +929,81 @@
         "category": "主题"
       }
     }
+  },
+  {
+    "id": "lets-ai-toolbar",
+    "author": "hqweay",
+    "name": "AI Toolbar",
+    "description": "AI assistant in the toolbar: built-in prompts, custom instructions, and user scripts runnable from the AI menu.",
+    "category": "Productivity",
+    "version": "4.1.1",
+    "updated": "2026-08-08T00:00:00Z",
+    "home": "https://github.com/hqweay/orca-hqweay-go",
+    "zip": "https://github.com/hqweay/orca-hqweay-go/releases/download/v4.1.1/lets-ai-toolbar.zip",
+    "translations": {
+      "zh": {
+        "name": "智能工具栏",
+        "description": "工具栏智能助手：内置 Prompt、自定义指令，AI 菜单里还能直接运行用户脚本。",
+        "category": "效率工具"
+      }
+    },
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"128\" height=\"128\" viewBox=\"0 0 128 128\"><rect x=\"8\" y=\"8\" width=\"112\" height=\"112\" rx=\"28\" fill=\"#7c3aed\"/><path d=\"M64 32 L72 56 L96 64 L72 72 L64 96 L56 72 L32 64 L56 56 Z\" fill=\"#ffffff\"/></svg>"
+  },
+  {
+    "id": "lets-arc-tabs",
+    "author": "hqweay",
+    "name": "Arc Tabs",
+    "description": "Arc-browser style sidebar for managing your notes and tabs, with recents and block drag-and-drop.",
+    "category": "Note Management",
+    "version": "4.1.1",
+    "updated": "2026-08-08T00:00:00Z",
+    "home": "https://github.com/hqweay/orca-hqweay-go",
+    "zip": "https://github.com/hqweay/orca-hqweay-go/releases/download/v4.1.1/lets-arc-tabs.zip",
+    "translations": {
+      "zh": {
+        "name": "Arc 风格标签页",
+        "description": "类 Arc 浏览器的侧边栏，用于管理您的笔记和标签页。",
+        "category": "笔记管理"
+      }
+    },
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"128\" height=\"128\" viewBox=\"0 0 128 128\"><rect x=\"8\" y=\"8\" width=\"112\" height=\"112\" rx=\"28\" fill=\"#ea580c\"/><path d=\"M40 96 L40 52 Q40 30 62 30 L66 30 Q88 30 88 52 L88 96 Z\" fill=\"#ffffff\"/></svg>"
+  },
+  {
+    "id": "lets-embed-view",
+    "author": "hqweay",
+    "name": "Embed View",
+    "description": "Embed web pages, HTML content or third-party content in notes, with AI-generated embeds.",
+    "category": "Integration",
+    "version": "4.1.1",
+    "updated": "2026-08-08T00:00:00Z",
+    "home": "https://github.com/hqweay/orca-hqweay-go",
+    "zip": "https://github.com/hqweay/orca-hqweay-go/releases/download/v4.1.1/lets-embed-view.zip",
+    "translations": {
+      "zh": {
+        "name": "智能嵌入块",
+        "description": "嵌入网页、HTML 内容或第三方内容，支持 AI 生成嵌入块。",
+        "category": "集成工具"
+      }
+    },
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"128\" height=\"128\" viewBox=\"0 0 128 128\"><rect x=\"8\" y=\"8\" width=\"112\" height=\"112\" rx=\"28\" fill=\"#0284c7\"/><circle cx=\"64\" cy=\"64\" r=\"32\" stroke=\"#ffffff\" stroke-width=\"10\" fill=\"none\"/><ellipse cx=\"64\" cy=\"64\" rx=\"13\" ry=\"32\" stroke=\"#ffffff\" stroke-width=\"8\" fill=\"none\"/><ellipse cx=\"64\" cy=\"64\" rx=\"32\" ry=\"13\" stroke=\"#ffffff\" stroke-width=\"8\" fill=\"none\"/></svg>"
+  },
+  {
+    "id": "lets-inject",
+    "author": "hqweay",
+    "name": "User Scripts",
+    "description": "Inject styles and scripts from code blocks; generate user scripts with AI; bind toolbar, block menu, sidebar entries and widgets.",
+    "category": "Productivity",
+    "version": "4.1.1",
+    "updated": "2026-08-08T00:00:00Z",
+    "home": "https://github.com/hqweay/orca-hqweay-go",
+    "zip": "https://github.com/hqweay/orca-hqweay-go/releases/download/v4.1.1/lets-inject.zip",
+    "translations": {
+      "zh": {
+        "name": "用户脚本",
+        "description": "给代码块打上标签即可注入样式、执行脚本，还能用 AI 生成用户脚本；绑定顶部栏/块菜单/侧边栏/快捷键等入口。",
+        "category": "效率工具"
+      }
+    },
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"128\" height=\"128\" viewBox=\"0 0 128 128\"><rect x=\"8\" y=\"8\" width=\"112\" height=\"112\" rx=\"28\" fill=\"#059669\"/><path d=\"M36 44 L16 64 L36 84\" stroke=\"#ffffff\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/><path d=\"M92 44 L112 64 L92 84\" stroke=\"#ffffff\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/><path d=\"M82 30 L46 98\" stroke=\"#ffffff\" stroke-width=\"12\" stroke-linecap=\"round\" fill=\"none\"/></svg>"
   }
 ]
