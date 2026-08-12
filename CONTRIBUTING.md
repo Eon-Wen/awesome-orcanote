@@ -16,7 +16,7 @@ To add or update a plugin, you need to modify the [plugins.json](plugins.json) f
 1. **ID Requirements**: The `id` field must consist only of English letters, numbers, and hyphens (`-`) or underscores (`_`).
 1. **Icons**:
    - Both SVG and PNG formats are supported, but **SVG is recommended**.
-   - Icon dimensions must not exceed **80x80 pixels**.
+   - Icon dimensions must not exceed **60x60 pixels**.
    - Please optimize image file sizes using specialized software before conversion.
    - Use the provided scripts to generate the content for `icon_svg` or `icon_png`:
      - For SVG: `node scripts/minify-svg.js <path-to-svg>`
@@ -58,7 +58,7 @@ Plugins should meet the following criteria:
 2. **ID 限制**：`id` 字段只能由英文字母、数字以及连字符（`-`）或下划线（`_`）组成。
 3. **图标规范**：
    - 支持 SVG 或 PNG 格式，**推荐使用 SVG**。
-   - 图标尺寸最大不要超过 **80x80 像素**。
+   - 图标尺寸最大不要超过 **60x60 像素**。
    - 建议在转换前使用图片优化软件尽量压缩图片大小。
    - 使用库自带的脚本提取填充到 `icon_svg` 或 `icon_png` 字段的内容：
      - SVG 图标：`node scripts/minify-svg.js <path-to-svg>`
