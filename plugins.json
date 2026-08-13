@@ -1063,6 +1063,6 @@
         "category": "主题"
       }
     },
-    "icon_svg": "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"256\" height=\"256\" viewBox=\"0 0 256 256\" role=\"img\" aria-labelledby=\"title desc\"><title id=\"title\">Orca Better Motion</title><desc id=\"desc\">紫蓝渐变圆角方形中的三条错位动态线</desc><defs><linearGradient id=\"motion-gradient\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#6367f2\"/><stop offset=\"1\" stop-color=\"#a33fd7\"/></linearGradient></defs><rect width=\"256\" height=\"256\" rx=\"64\" fill=\"url(#motion-gradient)\"/><g fill=\"#fff\" fill-opacity=\"0.92\"><rect x=\"64\" y=\"80\" width=\"86\" height=\"16\" rx=\"8\"/><rect x=\"88\" y=\"120\" width=\"102\" height=\"16\" rx=\"8\"/><rect x=\"112\" y=\"160\" width=\"98\" height=\"16\" rx=\"8\"/></g></svg>"
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"256\" height=\"256\" viewBox=\"0 0 256 256\" role=\"img\" aria-labelledby=\"title desc\"><title id=\"title\">Orca Better Motion</title><desc id=\"desc\">紫蓝渐变圆角方形中的三条错位动态线</desc><defs><linearGradient id=\"motion-gradient\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#6367f2\"/><stop offset=\"1\" stop-color=\"#a33fd7\"/></linearGradient></defs><rect width=\"256\" height=\"256\" rx=\"64\" fill=\"url(#motion-gradient)\"/><g fill=\"#fff\" fill-opacity=\"0.92\"><rect x=\"64\" y=\"80\" width=\"86\" height=\"16\" rx=\"8\"/><rect x=\"88\" y=\"120\" width=\"102\" height=\"16\" rx=\"8\"/><rect x=\"112\" y=\"160\" width=\"98\" height=\"16\" rx=\"8\"/></g></svg>"
   }
 ]
