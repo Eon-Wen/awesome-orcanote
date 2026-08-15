@@ -1047,6 +1047,25 @@
     "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"128\" height=\"128\" viewBox=\"0 0 128 128\"><rect x=\"8\" y=\"8\" width=\"112\" height=\"112\" rx=\"28\" fill=\"#059669\"/><path d=\"M36 44 L16 64 L36 84\" stroke=\"#ffffff\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/><path d=\"M92 44 L112 64 L92 84\" stroke=\"#ffffff\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/><path d=\"M82 30 L46 98\" stroke=\"#ffffff\" stroke-width=\"12\" stroke-linecap=\"round\" fill=\"none\"/></svg>"
   },
   {
+    "id": "lets-time-log",
+    "author": "hqweay",
+    "name": "Time Log",
+    "description": "Aggregate tag time properties (Start/End) into day/week/month timelines and statistics, with AI-generated analysis and SVG charts.",
+    "category": "Productivity",
+    "version": "4.4.0",
+    "updated": "2026-08-15T05:48:08Z",
+    "home": "https://github.com/hqweay/orca-hqweay-go",
+    "zip": "https://github.com/hqweay/orca-hqweay-go/releases/download/v4.4.0/lets-time-log.zip",
+    "translations": {
+      "zh": {
+        "name": "时间统计",
+        "description": "读取标签的时间属性（开始/结束）聚合出日/周/月时间线与统计页，支持 AI 生成文字分析与 SVG 统计图表。",
+        "category": "效率工具"
+      }
+    },
+    "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"128\" height=\"128\" viewBox=\"0 0 128 128\"><rect x=\"8\" y=\"8\" width=\"112\" height=\"112\" rx=\"28\" fill=\"#0d9488\"/><circle cx=\"64\" cy=\"64\" r=\"33\" stroke=\"#ffffff\" stroke-width=\"10\" fill=\"none\"/><circle cx=\"64\" cy=\"64\" r=\"4.5\" fill=\"#ffffff\"/><path d=\"M64 44 L64 64 L80 76\" stroke=\"#ffffff\" stroke-width=\"9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/></svg>"
+  },
+  {
     "id": "orca-neo",
     "author": "Eon-Wen",
     "name": "Orca Neo",
